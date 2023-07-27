@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    background-color: var(--green);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 22px 0;
+    color: var(--white);
+}
+
+.footer * {
+    text-align: center;
+}
+
+.footer p {
+    width: 70%;
+    align-self: center;
+    margin-top: 10px;
+}

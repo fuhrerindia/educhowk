@@ -1,0 +1,38 @@
+.row {
+    width: 100%;
+    overflow-x: scroll;
+    padding-bottom: 10px;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    scrollbar-width: none;
+}
+
+.row::-webkit-scrollbar {
+    width: 100%;
+}
+
+.row::-webkit-scrollbar-thumb {
+    background: #7CB97C;
+    border-radius: 20px;
+}
+
+.row::-webkit-scrollbar-track {
+    margin: 0px 80px;
+}
+
+.sections {
+    padding-top: 25px;
+}
+
+.stream {
+    margin-left: 33px;
+    margin-bottom: 25px;
+}
+
+.row>a:nth-child(1) {
+    margin-left: 80px;
+}
+
+.row>a:last-child {
+    margin-right: 80px;
+}

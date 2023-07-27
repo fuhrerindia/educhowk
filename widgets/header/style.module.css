@@ -1,0 +1,27 @@
+.searchBox {
+    background-color: var(--textBox);
+    height: 50px;
+    align-items: center;
+    padding: 0 15px;
+    width: 60%;
+    cursor: text;
+}
+
+.searchBox input[type="search"] {
+    background-color: transparent;
+    border: 0;
+    margin-left: 15px;
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+}
+
+.header {
+    align-items: center;
+    padding: 10px 0;
+    background-color: var(--white);
+}
+
+.button {
+    margin-left: 30px;
+}
