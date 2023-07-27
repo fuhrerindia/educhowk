@@ -38,6 +38,54 @@ export default function Home() {
               duration: "4 Years",
               href: "/",
             },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
+            {
+              image: banner,
+              name: "B.Tech(CS)",
+              duration: "4 Years",
+              href: "/",
+            },
           ],
         }}
       />
