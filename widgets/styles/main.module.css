@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    align-items: center;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.heading>div {
+    margin-left: 30px;
+}
